@@ -1,5 +1,3 @@
-# Masters_Project4_BigDataEngineering_sg_carpark_forecast
-
 # NUS ISS Data Science Masters Group Project 4 - Big Data Engineering.
 
 # Real-Time Carpark Forecasting Pipeline on GCP
